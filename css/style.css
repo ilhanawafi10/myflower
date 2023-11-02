@@ -84,8 +84,7 @@ body {
 }
 
 button {
-    padding: 12px;
-    padding-inline: 30px;
+    padding: 6px;
     background: white;
     border: none;
     font: bold;
